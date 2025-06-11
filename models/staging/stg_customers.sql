@@ -1,3 +1,4 @@
+-- FUN MESSAGE!
 with
 
 source as (
