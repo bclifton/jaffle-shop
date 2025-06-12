@@ -3,7 +3,6 @@ semantic_models:
   - name: products
     description: |
       Product dimension table. The grain of the table is one row per product.
-    access: public
     #The name of the dbt model and schema
     model: ref('products')
     #Entities. These usually corespond to keys in the table.
